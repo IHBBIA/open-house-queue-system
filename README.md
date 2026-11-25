@@ -1,6 +1,6 @@
 # Open House Digital Queue & Engraving Management System
 
-A full-stack, mobile-friendly event operations web application built with **React JS**, **Node.js**, **MySQL**, and **AWS Serverless (API Gateway, Lambda, and WebSockets)**. Designed for campus Open House booths to streamline visitor QR code scanning, custom luggage tag engraving orders, and real-time multi-stage queue synchronization across admin devices.
+(Final Year Project)A full-stack, mobile-friendly event operations web application built with **React JS**, **Node.js**, **MySQL**, and **AWS Serverless (API Gateway, Lambda, and WebSockets)**. Designed for campus Open House booths to streamline visitor QR code scanning, custom luggage tag engraving orders, and real-time multi-stage queue synchronization across admin devices.
 
 ---
 
